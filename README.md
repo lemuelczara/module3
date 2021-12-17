@@ -13,7 +13,7 @@ que o usuário irá inserir pelo console. Lembre-se que um número é par quando
 
 [Resolução](./src/aula1/Ex1.java)
 
----
+<br>
 
 ### ⚔ Exercício 2
 
@@ -23,7 +23,7 @@ quando o resto da divisão de a por b é igual a 0.
 
 [Resolução](./src/aula1/Ex2.java)
 
----
+<br>
 
 ### ⚔ Exercício 3
 
@@ -33,7 +33,7 @@ divisível por 1 e por si mesmo.
 
 [Resolução](./src/aula1/Ex3.java)
 
----
+<br>
 
 ### ⚔ Exercício 4
 
@@ -42,7 +42,7 @@ e m, sendo m um valor que o usuário irá inserir pelo console.
 
 [Resolução](./src/aula1/Ex4.java)
 
----
+<br>
 
 ### ⚔ Exercício 5
 
@@ -57,6 +57,8 @@ necessário usar recursos que ainda não estudamos. Faz parte do desafio encontr
 soluções na Internet e utilizá-las.
 
 [Resolução](./src/aula1/Ex5.java)
+
+<br>
 
 ## Aula 1 - Introdução a Java - TT
 
@@ -74,7 +76,7 @@ Imprima no console:
 
 [Resolução](./src/aula1/Ex6.java)
 
----
+<br>
 
 ### ⚔ Exercício 2
 
@@ -90,7 +92,7 @@ empresa X ultrapasse a empresa Y em seu valor de mercado.
 
 [Resolução](./src/aula1/Ex7.java)
 
----
+<br>
 
 ### ⚔ Exercício 3
 
