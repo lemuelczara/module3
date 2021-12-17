@@ -60,9 +60,7 @@ soluções na Internet e utilizá-las.
 
 <br>
 
-## Aula 1 - Introdução a Java - TT
-
-### ⚔️ Exercício 1
+### ⚔️ Exercício 6
 
 Dados um vetor de 10 posições, preenchido pelos valores 52, 10, 85, 1324, 01, 13, 62, 30, 12 e 127.
 
@@ -71,14 +69,14 @@ Integer[] arr = {52, 10, 85, 1324, 01, 13, 62, 30, 12, 127}
 ```
 
 Imprima no console:
- - Sua ordenação crescente;
- - Sua ordenação decrescente;
+- Sua ordenação crescente;
+- Sua ordenação decrescente;
 
 [Resolução](./src/aula1/Ex6.java)
 
 <br>
 
-### ⚔ Exercício 2
+### ⚔ Exercício 7
 
 Em 2021 uma startup de tecnologia, denominada de “Empresa X” é avaliada em
 R$ 1,13 milhão e possui uma média de crescimento anual de 148%. Uma concorrente do ramo,
@@ -94,7 +92,7 @@ empresa X ultrapasse a empresa Y em seu valor de mercado.
 
 <br>
 
-### ⚔ Exercício 3
+### ⚔ Exercício 8
 
 Para um protótipo de supermercado, crie um programa que leia 3 produtos e
 imprima no console: nome, preço, quantidade e o valor total da compra. Utilize um array como
@@ -122,6 +120,34 @@ Valor total: R$86.42
 [Resolução](./src/aula1/Ex8.java)
 
 <br>
+
+## Aula 1 - Introdução a Java - TT
+
+### ⚔ Exercício 1
+
+Desenvolva o método radixSort que ordena um vetor de inteiros mediante o algoritmo de
+ordenação: “Radix Sort”
+
+```java
+public class RadixSort {
+    public static void radixSort(int isArr[]) {
+        // code here
+    };
+
+   public static void main(String[] args) {
+      int iArr[] = { 1242, 293, 9192, 883, 928};
+      
+      radixSort(iArr);
+      
+      for (int i : iArr) {
+         System.out.print(i + " ");
+      }
+   }
+}
+```
+
+[Resolução](./src/aula1/Ex9.java)
+
 
 <h1 align="center">Java II</h1>
 
