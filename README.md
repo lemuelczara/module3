@@ -1,10 +1,10 @@
 # Módulo 3 - POO + Java
 
+<br>
+
 ## Java I
 
 ## Aula 1 - Introdução a Java - TM
-
----
 
 ### Exercício 1
 
@@ -121,11 +121,11 @@ Valor total: R$86.42
 
 [Resolução](./src/aula1/Ex8.java)
 
+<br>
+
 ## Java II
 
 ## Aula 2 - Introdução a Java - TM
-
----
 
 ### Exercício 1
 Você precisa entregar um sistema para gerenciamento de turmas em uma determinada
@@ -149,3 +149,5 @@ escola.
    Observação: A partir do Java 8 foi incluído uma excelente API para
    trabalharmos com datas. Portanto, atributos do tipo data devem ser
    declarados como LocalDate.
+   
+[Resolução](./src/aula2/Ex1.java)
