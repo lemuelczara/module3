@@ -2,11 +2,11 @@
 
 <br>
 
-## Java I
+<h1 align="center">Java I</h1>
 
 ## Aula 1 - Introdução a Java - TM
 
-### Exercício 1
+### ⚔ Exercício 1
 
 Desenvolva um programa para mostrar os primeiros n números pares, sendo n um valor
 que o usuário irá inserir pelo console. Lembre-se que um número é par quando divisível por 2.
@@ -15,7 +15,7 @@ que o usuário irá inserir pelo console. Lembre-se que um número é par quando
 
 ---
 
-### Exercício 2
+### ⚔ Exercício 2
 
 Desenvolva um programa para mostrar os primeiros n números múltiplos de m, sendo n e
 m valores que o usuário irá inserir via console. Lembre-se que um número a é divisível por b
@@ -25,7 +25,7 @@ quando o resto da divisão de a por b é igual a 0.
 
 ---
 
-### Exercício 3
+### ⚔ Exercício 3
 
 Desenvolva um programa para informar se um um número n é primo ou não, sendo n um
 valor que o usuário irá inserir pelo console. Lembre-se que um número é primo quando só é
@@ -35,7 +35,7 @@ divisível por 1 e por si mesmo.
 
 ---
 
-### Exercício 4
+### ⚔ Exercício 4
 
 Desenvolva um programa para mostrar no console os primeiros n números primos entre 1
 e m, sendo m um valor que o usuário irá inserir pelo console.
@@ -44,7 +44,7 @@ e m, sendo m um valor que o usuário irá inserir pelo console.
 
 ---
 
-### Exercício 5
+### ⚔ Exercício 5
 
 Desenvolver um programa para exibição por console os n primeiros números naturais que
 têm pelo menos m dígitos de d, sendo n, m e d valores que o utilizador vai informar pelo
@@ -60,9 +60,7 @@ soluções na Internet e utilizá-las.
 
 ## Aula 1 - Introdução a Java - TT
 
----
-
-### Exercício 1
+### ⚔️ Exercício 1
 
 Dados um vetor de 10 posições, preenchido pelos valores 52, 10, 85, 1324, 01, 13, 62, 30, 12 e 127.
 
@@ -78,7 +76,7 @@ Imprima no console:
 
 ---
 
-### Exercício 2
+### ⚔ Exercício 2
 
 Em 2021 uma startup de tecnologia, denominada de “Empresa X” é avaliada em
 R$ 1,13 milhão e possui uma média de crescimento anual de 148%. Uma concorrente do ramo,
@@ -94,7 +92,7 @@ empresa X ultrapasse a empresa Y em seu valor de mercado.
 
 ---
 
-### Exercício 3
+### ⚔ Exercício 3
 
 Para um protótipo de supermercado, crie um programa que leia 3 produtos e
 imprima no console: nome, preço, quantidade e o valor total da compra. Utilize um array como
@@ -123,11 +121,11 @@ Valor total: R$86.42
 
 <br>
 
-## Java II
+<h1 align="center">Java II</h1>
 
 ## Aula 2 - Introdução a Java - TM
 
-### Exercício 1
+### ⚔ Exercício 1
 Você precisa entregar um sistema para gerenciamento de turmas em uma determinada
 escola.
 
