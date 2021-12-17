@@ -1,5 +1,7 @@
 # Módulo 3 - POO + Java
 
+## Java I
+
 ## Aula 1 - Introdução a Java - TM
 
 ---
@@ -118,6 +120,8 @@ Valor total: R$86.42
 ```
 
 [Resolução](./src/aula1/Ex8.java)
+
+## Java II
 
 ## Aula 2 - Introdução a Java - TM
 
