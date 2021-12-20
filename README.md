@@ -197,7 +197,7 @@ Escreva três classes: PasswordForte, PasswordMedia, PasswordFraca, todas elas
 devem estender Password e codificar um regex de acordo com o nível de segurança
 que o nome da classe indica.
 
-[Resolução](./src/aula2/ex2/Ex2.java);
+[Resolução](./src/aula2/ex2/Ex2.java)
 
 <br>
 
@@ -222,6 +222,6 @@ contidas no array.
 Crie um programa, instancie um array de FiguraGeometrica[], carregue os dados
 nele e execute o método areaMedia para obter a área média. Mostre o resultado.
 
-[Resolução](./src/aula2/ex2/Ex2.java);
+[Resolução](./src/aula2/ex2/Ex2.java)
 
 <br>
