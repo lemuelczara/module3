@@ -1,4 +1,4 @@
-package aula2;
+package aula2.ex1;
 
 public class Turma {
     public String id;

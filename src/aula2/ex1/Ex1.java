@@ -1,4 +1,4 @@
-package aula2;
+package aula2.ex1;
 
 import java.time.LocalDate;
 

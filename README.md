@@ -177,3 +177,43 @@ escola.
    declarados como LocalDate.
    
 [Resolução](./src/aula2/Ex1.java)
+
+## Aula 2 - Introdução a Java - TT
+
+### Exercício 1
+
+Crie uma classe de Senha. O construtor deve receber uma regex (expressão regular)
+que valida o formato exigido para a senha. Pesquise na Internet quais recursos Java
+fornece para operar com expressões regulares.
+
+Adicione o método public void setValue (String pwd) que permite atribuir uma senha
+de acordo com a exigida pela regex do ponto anterior. Em caso de incompatibilidade,
+o método deve lançar uma exceção.
+
+ - Discussão: que tipo de exceção você considera mais adequada?
+ - Implemente o método conforme decidido em (2).
+
+Escreva três classes: PasswordForte, PasswordMedia, PasswordFraca, todas elas
+devem estender Password e codificar um regex de acordo com o nível de segurança
+que o nome da classe indica.
+
+### Exercício 2
+
+Crie a classe abstrata FiguraGeometrica e com o método: `public abstract double area();`.
+
+Substitua corretamente o método `toString. Discussão em grupo: faz sentido substituir
+o método `toString em uma classe abstrata?
+
+Crie as classes Círculo, Triangulo e Retangulo, todas subclasses de FiguraGeometrica.
+Que erro de compilação aparece? Como você resolveria isso?
+
+Adicione os atributos (variáveis de instância) que correspondem em cada caso e
+substitua adequadamente o método de área em todas as subclasses de
+FiguraGeometrica.
+
+Crie uma classe de utilidade com um método estático: public static double
+areaMedia (FiguraGeometrica arr [ ]), que calcula e retorna a área média das figuras
+contidas no array.
+
+Crie um programa, instancie um array de FiguraGeometrica[], carregue os dados
+nele e execute o método areaMedia para obter a área média. Mostre o resultado.
