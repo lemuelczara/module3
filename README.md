@@ -180,7 +180,7 @@ escola.
 
 ## Aula 2 - Introdução a Java - TT
 
-### Exercício 1
+### ⚔ Exercício 1
 
 Crie uma classe de Senha. O construtor deve receber uma regex (expressão regular)
 que valida o formato exigido para a senha. Pesquise na Internet quais recursos Java
@@ -197,7 +197,11 @@ Escreva três classes: PasswordForte, PasswordMedia, PasswordFraca, todas elas
 devem estender Password e codificar um regex de acordo com o nível de segurança
 que o nome da classe indica.
 
-### Exercício 2
+[Resolução](./src/aula2/ex2/Ex2.java);
+
+<br>
+
+### ⚔ Exercício 2
 
 Crie a classe abstrata FiguraGeometrica e com o método: `public abstract double area();`.
 
@@ -217,3 +221,7 @@ contidas no array.
 
 Crie um programa, instancie um array de FiguraGeometrica[], carregue os dados
 nele e execute o método areaMedia para obter a área média. Mostre o resultado.
+
+[Resolução](./src/aula2/ex2/Ex2.java);
+
+<br>
